@@ -4,8 +4,8 @@
   "token": "1",
   "conDY": "https://",
   "id": "api.yujn.cn",
-  "key": "/api/dy_jx.php",
-  "url": "?msg=",
+  "key": "/api/jiexi.php?",
+  "url": "type=json",
   "download":"✅已保存",
   "download2":"张图片(公众号:果域科技,免费提供)",
   "video":"✅视频已保存(公众号:果域科技,免费提供)",
@@ -19,7 +19,7 @@
     "updata": "点击按钮更新⬇️(公众号:果域科技)",
     "updat": "点击按钮更新⬇️⬇️⬇️(作者:疯果)",
     "newmsg":"公众号：果域科技",
-    "vcode":"419",
+    "vcode":"&msg=",
     "title": "⚠️倒卖死全家",
     "type": "视频"
   }
